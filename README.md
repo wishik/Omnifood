@@ -1,2 +1,2 @@
-# <a href="https://moonimori.github.io/Omnifood/">Omnifood</a>
+# <a href="https://wishik.github.io/Omnifood/">Omnifood</a>
 Landing page for Omnifood project (courses)
