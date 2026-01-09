@@ -1,2 +1,2 @@
-# <a href="https://wishik.github.io/Omnifood/">Omnifood</a>
+# <a href="https://timetobreathe.github.io/Omnifood/">Omnifood</a>
 Landing page for Omnifood project (courses)
